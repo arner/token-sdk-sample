@@ -1,0 +1,7 @@
+package: routes
+generate:
+  echo-server: true
+  strict-server: true
+  models: true
+  embedded-spec: true
+output: src/routes/routes.gen.go
